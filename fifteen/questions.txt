@@ -1,0 +1,23 @@
+0. TODO (Besides 4 × 4 (which are Game of Fifteen’s dimensions), what other dimensions does the framework allow?)
+
+Two dimensions out to any value (in theory).
+
+1. TODO (With what sort of data structure is the game’s board represented?)
+
+A two dimensional array.
+
+2. TODO (What function is called to greet the player at game’s start?)
+
+Greet.
+
+3. TODO (What functions do you apparently need to implement?)
+
+Why init, draw, move, and won of course.
+
+
+
+
+ 
+
+    
+
